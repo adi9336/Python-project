@@ -1,2 +1,2 @@
 # Python-project
-2nd ear project on python programming
+2nd year project on python programming
